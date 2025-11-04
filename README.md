@@ -18,7 +18,6 @@ project-root/
 ├── backend/           # Express API server
 ├── database/          # Database schema and models
 ├── postman_collection.json
-├── FINAL_SUBMISSION_NOTE.md
 └── README.md
 ```
 
